@@ -1,8 +1,15 @@
-# Monday 22/11
+# Creative Computing
 
-## Learning Computing Independently
+## Monday 22/11
 
-# Tuesday 23/11
+**Learning Computing Independently**
+
+
+## Tuesday 23/11
+
+**Having Tutorial with Maggie**
+
+**Arduino**
 
 # Wednesday 24/11
 
