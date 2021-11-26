@@ -1,6 +1,7 @@
 # Creative Computing
 
-## Monday 22/11
+## Learning Log
+### Monday 22/11
 
 **Learning Computing Independently**
 
@@ -16,13 +17,13 @@ The open source is also mentioned in the material, where claims
 
 It gives people the opportunities to learn, to remix and make their own. The open-source software made it a lot easier for me to learn Arduino later.
 
-## Tuesday 23/11
+### Tuesday 23/11
 
 **Learning Arduino and Having Tutorial with Maggie**
 
 This was the part of learning that I think was hard to understand. It needed a lot of physical knowledge to learn Arduino, like doing experiments to make the LED light up using the digital output of Arduino. As I was learning remotely I couldn't actually complete the experiment, but the tutorials helped me a lot and there are annotations in thinkerCAD which also gave me a more in-depth knowledge.
 
-## Thursday 25/11
+### Thursday 25/11
 
 **Learning README file and Markdown**
 
