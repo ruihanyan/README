@@ -22,8 +22,6 @@ It gives people the opportunities to learn, to remix and make their own. The ope
 
 This was the part of learning that I think was hard to understand. It needed a lot of physical knowledge to learn Arduino, like doing experiments to make the LED light up using the digital output of Arduino. As I was learning remotely I couldn't actually complete the experiment, but the tutorials helped me a lot and there are annotations in thinkerCAD which also gave me a more in-depth knowledge.
 
-![Arduino](/Users/yanruihan/Desktop/1.png)
-
 ## Thursday 25/11
 
 **Learning README file and Markdown**
