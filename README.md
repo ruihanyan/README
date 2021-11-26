@@ -33,4 +33,4 @@ After having an understanding of creative computing, I learned how to write a RE
 
 Through this week's study, I was reminded that in the era without technological support, design could be only done by hand with the aid of drawing tools, and the result was unchangeable and not easily replicated. New technology is bringing us into a new era, and design is making this era richer. Whether it is technology or design, its ultimate service and user is human. Design needs to use technology to create new and innovative effects, and technology also needs design to package and promote itself, so that it can be recognised by the public. Both are indispensable.
 
-Learning creative computing is exciting, I feel like I have learned a skill to use my brain and hands to make the world work the way I want it to.
+Learning creative computing is exciting, I feel like I have learned a skill to use my brain and hands to make the world work the way I want it to. Creative computing is a completely unexplored field for me, which is challenging, but I also got a lot of unexpected rewards.
